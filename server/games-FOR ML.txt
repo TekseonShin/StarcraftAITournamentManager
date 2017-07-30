@@ -1,0 +1,16 @@
+      0     0        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+      1     1        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+      2     2        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+      3     3        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+      4     4        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+      5     5        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+      6     6        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+      7     7        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+      8     8        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+      9     9        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+     10    10        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+     11    11        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+     12    12        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+     13    13        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
+     14    14        Kata2-Offense        Kata2-Defense             Fighting_Spirit_1.3.scx
+     15    15        Kata2-Defense        Kata2-Offense           Lost_Temple_2.4_iCCup.scx
